@@ -1,0 +1,1 @@
+i chose school ERD with main entities such as; student, course, teacher and enrollment each entity has unique identifies and have relations ship as follow a student can be enrolled to different courses, a teacher can teach different courses 
